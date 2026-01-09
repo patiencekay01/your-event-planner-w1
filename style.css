@@ -1,0 +1,19 @@
+header {
+    background-color: rgb(248, 153, 175);
+}
+
+h1 {
+    color: white;
+}
+
+.background {
+    background-size: cover;
+}
+
+.services {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyMuxrgILfoEsVlnEwzLvd3gal76-iVqGEFQ&s);
+}
+
+.packages {
+    background-image: url(https://cdn.shopify.com/s/files/1/1552/7691/articles/picnic-paradise-designing-a-dreamy-family-picnic-theme-party-setup.jpg?v=1724401663);
+}
