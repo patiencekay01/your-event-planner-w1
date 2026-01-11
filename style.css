@@ -6,14 +6,40 @@ h1 {
     color: white;
 }
 
+a {
+    color: white;
+    text-decoration: none;
+}
+
 .background {
     background-size: cover;
+    height: 700px;
+    width: 1505px;
+
+    position: relative;
+
 }
 
 .services {
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyMuxrgILfoEsVlnEwzLvd3gal76-iVqGEFQ&s);
+    background-image: url(https://cdn0.hitched.co.uk/vendor/9215/3_2/640/jpeg/e754adf2-337a-497e-a21f-3ca25840fa15_4_269215-172614616222911.jpeg);
 }
 
 .packages {
-    background-image: url(https://cdn.shopify.com/s/files/1/1552/7691/articles/picnic-paradise-designing-a-dreamy-family-picnic-theme-party-setup.jpg?v=1724401663);
+    background-image: url(https://www.beeventhire.co.uk/wp-content/uploads/2017/02/Decorating-Your-Wedding-Chairs.jpg);
+}
+
+.cta-box {
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+
+    height: 23vh;
+    width: 46vh;
+
+    background-color: #96949492;
+    
+    position: absolute;
+    bottom: 165px;
+    left: 105px;
+
 }
