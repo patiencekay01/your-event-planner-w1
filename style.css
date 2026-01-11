@@ -7,6 +7,12 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    gap: 1.5rem;
+
+    position: sticky;
+    top: 0%;
+    padding: 2rem;
+    z-index: 1000;
 }
 
 h1 {
@@ -18,10 +24,6 @@ a {
     text-decoration: none;
 }
 
-.nav-bar {
-    position: sticky;
-    top: 0px;
-}
 
 .background {
     background-size: cover;
@@ -53,5 +55,10 @@ a {
     position: absolute;
     bottom: 165px;
     left: 105px;
+
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    line-height: 2.4;
+    
 
 }
